@@ -1,6 +1,6 @@
 <?php
 
-$db = new ipsrv\IPSrvDB("/path/to/ipsrv.dat");
+$db = new ipsrv\ipsrvdb\IPSrvDB("/path/to/ipsrv.dat");
 var_dump($db->get_header());
 var_dump($db->get_date());
 var_dump($db->get_description());
