@@ -17,7 +17,7 @@
     },    
     "autoload": {
         "psr-4": {
-            "ipsrv\\ipsrvdb": "src/ipsrv/ipsrvdb"
+            "ipsrv\\ipsrvdb\\": "src/ipsrv/ipsrvdb"
         }
     }
 }
