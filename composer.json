@@ -1,5 +1,5 @@
 {
-    "name": "ipsrv",
+    "name": "ipsrv/ipsrvdb",
     "type": "library",
     "description": "",
     "keywords": ["ipsrvdb", "ipsrv", "ipsrv.net"],
